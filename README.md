@@ -1,4 +1,4 @@
-Dockerized GraphiQL UI with configurable API endpoint support 
+Dockerized GraphiQL UI with configurable API endpoint support. 
 
 # Build image
 ```

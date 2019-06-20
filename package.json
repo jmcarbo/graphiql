@@ -8,6 +8,7 @@
     "start:dev": "nodemon --exec babel-node src/server.js"
   },
   "author": "László Csatlós",
+  "repository": "https://github.com/Plutoz01/graphiql",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.5",

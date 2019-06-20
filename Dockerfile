@@ -1,6 +1,7 @@
 FROM node:latest
 LABEL maintainer="László Csatlós (Plutoz)"
 LABEL repository="https://github.com/Plutoz01/graphiql"
+LABEL description="Dockerized GraphiQL UI with configurable API endpoint support"
 
 RUN mkdir -p /home/node/app/node_modules && chown -R node:node /home/node/app
 
